@@ -37,3 +37,11 @@ python3 kuis/kuis2_deret_aritmetika.py
 ## Refleksi
 
 Kesalahan yang perlu diperhatikan dalam perulangan adalah menempatkan `total = 0` di dalam loop. Jika `total` diinisialisasi kembali menjadi 0 setiap kali perulangan berjalan, hasil penjumlahan tidak akan terakumulasi dengan benar. Cara memperbaikinya adalah menempatkan `total = 0` sebelum loop dimulai sehingga nilai `total` dapat menyimpan hasil penjumlahan dari setiap suku.
+
+## Catatan Pengujian
+
+Program telah diuji menggunakan beberapa nilai input dan menghasilkan keluaran sesuai dengan yang diharapkan.
+
+## Refleksi
+
+Dalam perulangan, variabel penghitung atau akumulator harus ditempatkan dengan tepat. Jika `total = 0` diletakkan di dalam loop, nilai sebelumnya akan kembali menjadi 0 sehingga hasil penjumlahan tidak terakumulasi dengan benar.
