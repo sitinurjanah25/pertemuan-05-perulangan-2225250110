@@ -45,3 +45,7 @@ Program telah diuji menggunakan beberapa nilai input dan menghasilkan keluaran s
 ## Refleksi
 
 Dalam perulangan, variabel penghitung atau akumulator harus ditempatkan dengan tepat. Jika `total = 0` diletakkan di dalam loop, nilai sebelumnya akan kembali menjadi 0 sehingga hasil penjumlahan tidak terakumulasi dengan benar.
+
+## Status Pengujian
+
+Semua program latihan dan Kuis 2 telah diuji dan dapat berjalan sesuai dengan ketentuan tugas.
